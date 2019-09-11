@@ -4,5 +4,5 @@ require_relative '../lib/tic_tac_toe.rb'
 
 puts "Welcome to TicTacToe!"
 
-TicTacToe.new
-TicTacToe.play
+new_game = TicTacToe.new
+new_gameplay
